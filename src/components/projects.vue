@@ -117,8 +117,8 @@ export default {
     background-color: #ffffff;
   }
   .closeBar > .popoutClose {
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
     float: right;
     margin: 20px 20px 0 0;
     background-image: url("../assets/back.png");
@@ -217,8 +217,8 @@ export default {
     background-color: #ffffff;
   }
   .closeBar > .popoutClose {
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
     float: right;
     margin: 20px 20px 0 0;
     background-image: url("../assets/back.png");

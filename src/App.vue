@@ -110,7 +110,6 @@ export default {
     },
     ifAnimate: function(index) {
       if (index === 2) {
-        console.log("success");
         ToxProgress.create();
         ToxProgress.animate();
       }
