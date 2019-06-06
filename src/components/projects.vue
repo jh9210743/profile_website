@@ -328,10 +328,9 @@ export default {
     background-color: #ffffff;
   }
   .closeBar > .popoutClose {
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
     float: right;
-    margin: 20px 20px 0 0;
     background-image: url("../assets/back.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -355,13 +354,13 @@ export default {
     margin: 10px 10px 10px 10px;
     background-repeat: no-repeat;
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: flex-start;
     flex-wrap: wrap;
   }
   .projectList img {
     display: block;
-    width: 300px;
+    width: 250px;
     margin: 10px 15px 10px 15px;
     box-shadow: 4px 4px 2px 1px rgb(221, 221, 221);
   }

@@ -310,7 +310,7 @@ export default {
     list-style-type: none;
     background-color: #92ccd1;
     width: 6px;
-    height: 120vh;
+    height: 130vh;
     margin: 15px auto auto 35px;
     padding-top: 10px;
     box-sizing: border-box;
