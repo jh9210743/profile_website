@@ -199,10 +199,10 @@ export default {
     color: white;
   }
   .v-enter-active {
-    animation: go 1s;
+    animation: go 0.5s;
   }
   .v-leave-active {
-    animation: back 1s;
+    animation: back 0.5s;
   }
   @keyframes go {
     from {

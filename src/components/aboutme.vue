@@ -64,9 +64,9 @@ export default {
             "https://www.cakeresume.com/s--0Tv4NPMF5JcI9eAiHUK9tg--/jamie-hsieh-6d8c37"
         },
         {
-          name: "kaohsiungmap",
-          src: require("../assets/profile-website.png"),
-          link: "/"
+          name: "medium",
+          src: require("../assets/medium.png"),
+          link: "https://medium.com/@jamie012955"
         }
       ]
     };

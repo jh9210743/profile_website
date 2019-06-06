@@ -106,12 +106,12 @@ export default {
     z-index: 2;
     left: 0;
     top: 0;
-    position: absolute;
+    position: fixed;
     width: 20%;
     background-color: #5a92af;
   }
   .content {
-    height: 100%;
+    height: fit-content;
     z-index: 99;
     left: 20%;
     top: 0;
@@ -143,6 +143,7 @@ export default {
     width: 450px;
     margin: 10px 0 10px 20px;
     display: flex;
+    justify-content: center;
     align-items: center;
     align-content: center;
   }

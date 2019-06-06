@@ -85,7 +85,7 @@ export default {
     z-index: 2;
     left: 0;
     top: 0;
-    position: absolute;
+    position: fixed;
     width: 20%;
     background-color: #92ccd1;
   }
@@ -116,10 +116,8 @@ export default {
     list-style-type: none;
     background-color: #92ccd1;
     width: 6px;
-    height: 95%;
+    height: 97%;
     margin: 15px auto auto 100px;
-    padding-top: 10px;
-    box-sizing: border-box;
   }
   .exItemList {
     width: 480px;

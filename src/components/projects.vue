@@ -178,13 +178,13 @@ export default {
     float: left;
     text-align: left;
     text-decoration: none;
-    color: #1178b4;
+    color: #df1261;
     margin: 0 auto;
     font-size: 18px;
     line-height: 24px;
   }
   .projectContent a:hover {
-    color: rgb(0, 93, 180);
+    color: rgb(182, 3, 63);
   }
 }
 @media only screen and (min-width: 480px) and (max-width: 768px) {
@@ -289,13 +289,13 @@ export default {
   .projectContent a {
     text-align: left;
     text-decoration: none;
-    color: #1178b4;
+    color: #df1261;
     margin: 5px 0 5px 0;
     font-size: 18px;
     line-height: 24px;
   }
   .projectContent a:hover {
-    color: rgb(0, 93, 180);
+    color: rgb(182, 3, 63);
   }
 }
 @media only screen and (max-width: 480px) {
@@ -397,14 +397,14 @@ export default {
   .projectContent a {
     text-align: left;
     text-decoration: none;
-    color: #1178b4;
+    color: #df1261;
     margin: 5px 0 5px 0;
     font-size: 18px;
     line-height: 24px;
     margin: 10px 0 0 0;
   }
   .projectContent a:hover {
-    color: rgb(0, 93, 180);
+    color: rgb(182, 3, 63);
   }
 }
 </style>
