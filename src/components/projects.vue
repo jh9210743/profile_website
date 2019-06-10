@@ -71,11 +71,11 @@ export default {
           skill: "使用Java開發Android App，後臺使用Debian、PHP、Apche建置"
         },
         {
-          name: "The Way Home",
+          name: "打狗文創",
           link: "",
           src: require("../assets/KaohsiungCreate.png"),
           content:
-            "建立一個提供流浪與走失動物的資訊呈現平台，讓使用者能夠找尋走失動物或提供流浪動物的領養資訊",
+            "建立一個販賣高雄文創商品的網站，並以地區與產品性質分類產品。",
           skill: "使用基礎html與css，後臺使用Ubuntu、PHP、Apche建置"
         }
       ]
