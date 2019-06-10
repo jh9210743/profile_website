@@ -74,8 +74,7 @@ export default {
           name: "打狗文創",
           link: "",
           src: require("../assets/KaohsiungCreate.png"),
-          content:
-            "建立一個販賣高雄文創商品的網站，並以地區與產品性質分類產品。",
+          content: "建立一個販賣高雄文創商品的網站，並以地區與產品性質分類產品",
           skill: "使用基礎html與css，後臺使用Ubuntu、PHP、Apche建置"
         }
       ]
